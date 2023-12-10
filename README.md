@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thien</h1>
-<p align="left"> <a href="https://github.com/ThienNguyen27/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thiennguyen27" alt="thiennguyen27" /></a> </p>
 
-- 📫 How to reach me **thiennguyen27.tech@gmail.com**
+ 📫 How to reach me: **thiennguyen27.tech@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
