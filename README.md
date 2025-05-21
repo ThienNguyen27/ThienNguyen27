@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Thien</h1>
+# Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+
+**I'm Thien. I'm a CS student at Texas A&M University. I have been exploring full-stack development, AI/ML, Cloud technologies, and love to explore more!**
 
  📫 How to reach me: **nguyenthien.tech@gmail.com**
 
