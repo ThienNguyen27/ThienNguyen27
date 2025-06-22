@@ -1,6 +1,6 @@
 # Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
-**I'm Thien. I'm a CS student at Texas A&M University. I have been exploring full-stack development, AI/ML, Cloud technologies, and love to explore more!**
+![Intro](https://github.com/ThienNguyen27/ThienNguyen27/blob/main/images/Intro.gif)
 
 <h3 align="left">
   <img src="https://img.icons8.com/ios-filled/50/chain.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" />
