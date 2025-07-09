@@ -3,7 +3,7 @@
 ![Intro](https://github.com/ThienNguyen27/ThienNguyen27/blob/main/images/Intro.gif)
 
 <h3 align="left">
-  <img src="https://img.icons8.com/ios-filled/50/chain.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://img.icons8.com/ios-filled/00BFFF/chain.png" width="24" height="24" style="vertical-align: middle; margin-right: 8px;" />
   Connect with me
 </h3>
 
